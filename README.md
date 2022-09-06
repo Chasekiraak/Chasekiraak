@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Chasekiraak
+- 👀 I’m interested in play in video games & learning new things ...
+- 🌱 I’m currently learning Code ...
+- 📫 How to reach me on insta id ameer_rockzzz...
+
+<!---
+Chasekiraak/Chasekiraak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
